@@ -29,3 +29,8 @@ Agent: 好的，我將分析 weather_data.json 的結構，並建立一份「資
 User: 請根據資料分析.md的結果，在sqllite產生兩個對應的資料表 regions、forecasts，並將weather_data.json裡的資料寫入進去
 Agent: 好的，我將撰寫 Python 程式碼來建立 SQLite 資料庫，依照分析檔案建立 regions 與 forecasts 資料表，並將 JSON 資料匯入資料庫中。
 
+
+[2025-12-06T23:18:27+08:00]
+User: 使用streamlit從weather.db中撈取資料出來，並參考該圖片的呈現方式進行呈現
+Agent: 好的，我將使用 Streamlit 建立一個 dashboard 應用程式，從 weather.db 讀取資料，並參考您提供的圖片排版（左側控制選單、右側數據展示）來呈現氣象預報資訊。
+
