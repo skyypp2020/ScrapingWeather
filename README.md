@@ -2,6 +2,8 @@
 
 本專案採用 CRISP-DM (跨行業資料探勘標準流程) 方法論，實作了一個針對台灣農業氣象預報的視覺化儀表板。
 
+**Demo Site**: [https://scrapingweather-klynf4ge8hyjxgqt3ujybs.streamlit.app/](https://scrapingweather-klynf4ge8hyjxgqt3ujybs.streamlit.app/)
+
 ## 專案結構
 ```text
 D:.

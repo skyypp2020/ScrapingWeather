@@ -59,3 +59,8 @@ Agent: 好的，我已根據 CRISP-DM (跨行業資料探勘標準流程) 為專
 User: README.md請使用繁體中文
 Agent: 好的，我將把 README.md 的內容翻譯成繁體中文。
 
+
+[2025-12-07T00:01:51+08:00]
+User: 幫我在 README.md檔案中，新增 Demo Site：https://scrapingweather-klynf4ge8hyjxgqt3ujybs.streamlit.app/
+Agent: 沒問題，我將立即把 Demo Site 的連結新增至 README.md 文件中，方便使用者直接訪問預覽。
+
